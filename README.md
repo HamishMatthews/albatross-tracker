@@ -3,10 +3,10 @@
 Fisheries New Zealand and the Department of Conservation have conducted tracking of various albatross species since January 2019. They have tracked 75 Antipodean and Gibson's wandering albatross, and 14 Salvin's albatross, with data starting from October 2018.
 
 ## Data Source
-Daily locational data from GPS and Argos transmitters were collected and uploaded to a series of dedicated satellites, before being downloaded to a wildlife tracking service in France. You can access the dataset [here](https://catalogue.data.govt.nz/dataset/albatross-tracking-data).
+Daily locational data from GPS and Argos transmitters were collected and uploaded to a series of dedicated satellites, before being downloaded to a wildlife tracking service in France. The point data is in CSV format with an 'Identifier' for each bird, Lat/Long coordinates and a 'DateTime' variable. You can access the dataset [here](https://catalogue.data.govt.nz/dataset/albatross-tracking-data).
 
 ## Tools and Technologies Used
-This repository contains Python scripts and uses several technologies and libraries for data extraction, transformation, loading (ETL), and visualization, including:
+This repository contains a Jupyter notebook and uses several python modules and libraries for data extraction, transformation, loading (ETL), and visualization, including:
 - Python
 - Geopandas
 - Postgres
