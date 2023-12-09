@@ -17,6 +17,8 @@ This repository contains a Jupyter notebook and uses several python modules and 
 ## Visualizing the Flight Paths
 The main purpose of this project is to generate a temporal animation that shows the flight paths of the 88 tracked albatross birds. You can watch the animated flight paths in the following YouTube video:
 
+https://www.youtube.com/watch?v=OBuCILn5W2c
+
 [![Embedding a YouTube Video](https://img.youtube.com/vi/OBuCILn5W2c/0.jpg)](https://www.youtube.com/watch?v=OBuCILn5W2c)
 
 <sup>Video: Animated Flight Paths of 88 Albatross Birds</sup>
